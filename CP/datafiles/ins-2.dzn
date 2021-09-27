@@ -1,0 +1,4 @@
+num_circuits=5;
+width=9;
+circuits_w=[3, 3, 3, 3, 3];
+circuits_h=[3, 4, 5, 6, 9];
